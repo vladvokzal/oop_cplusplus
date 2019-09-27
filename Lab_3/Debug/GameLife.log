@@ -1,0 +1,14 @@
+﻿  View.cpp
+  Strategy.cpp
+  Serializer.cpp
+  Parser.cpp
+  Model.cpp
+  main.cpp
+  History.cpp
+  Game.cpp
+  Field.cpp
+  Executor.cpp
+  Deserializer.cpp
+  Создание кода...
+  GameLife.vcxproj -> C:\Users\Vladislav\Documents\oop_voytenko_16207\Lab_3\Debug\GameLife.exe
+  GameLife.vcxproj -> C:\Users\Vladislav\Documents\oop_voytenko_16207\Lab_3\Debug\GameLife.pdb (Partial PDB)
